@@ -1,2 +1,3 @@
 # Unity
-Development assets from the Unity 5 engine
+
+This repository is meant for the Pootis Development team's open-source Unity5 assets and files.
